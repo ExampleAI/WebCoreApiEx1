@@ -7,7 +7,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace myNamespace
+namespace xAI
 {
     public class Program
     {
