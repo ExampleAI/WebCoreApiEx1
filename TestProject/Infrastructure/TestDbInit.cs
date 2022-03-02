@@ -13,7 +13,7 @@ namespace TestProject.Infrastructure
     {
         public static void Initialize(xAIContext context)
         {
-            //[SEEDDBINIT]
+//[SEEDDBINIT]
 
             Seed(context);
 
@@ -21,7 +21,7 @@ namespace TestProject.Infrastructure
 
         private static void Seed(xAIContext context)
         {
-            //[SEEDDB]
+//[SEEDDB]
         }
     }
 }
